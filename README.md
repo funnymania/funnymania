@@ -1,5 +1,5 @@
 ### 👻🏚👻 ghosts' abodes
-
+Hi there. I am making things to make our lives easy to manage. Pro-metaverse!
 <!--
 **funnymania/funnymania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
